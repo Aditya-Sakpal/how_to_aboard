@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img alt="Coding" width="300" src="https://github.com/Aditya-Sakpal/GIGA_CHAT_FRONTEND/assets/112710558/57744ccf-6e67-45d0-bcab-e20b78412f7d" >
+</p>
 
-## Getting Started
 
-First, run the development server:
+### How to Abroad is a premier platform dedicated to helping students find and enroll in courses abroad, tailored to their academic and career aspirations. Our mission is to simplify the process of studying internationally by providing a comprehensive, user-friendly interface that allows students to explore a vast array of educational programs across the globe.
 
+
+### Current Version : https://how-to-aboard.vercel.app/
+
+**Note this app doesn't support mobile in a desktop broswer**
+
+### I have ensured that all the requirements mentioned in your email have been covered, including:
+
+- A navigation bar with menu items for Home, Search Course, Login, and Portal, with each page being navigable.
+- A sidebar with filters on the Search Course page, as shown on the How to Abroad website.
+- Display of programs on the Search Course page, similar to the provided URL.
+- Fully functional filters.
+- All pages, the navigation bar, and the filter are mobile-friendly.
+
+### Tech Stack Used : 
+<img alt="Coding" align="center" width="500" src="https://github.com/Aditya-Sakpal/GIGA_CHAT_FRONTEND/assets/112710558/d193375a-4401-4c5b-a761-cb9cf4afd60f" >
+
+### System Design :
+![diagram-export-5-22-2024-1_57_25-AM](https://github.com/Aditya-Sakpal/how_to_aboard/assets/112710558/526e892f-9f4e-48ea-8cae-004b0df83333)
+
+### Installation :
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+   git clone https://github.com/Aditya-Sakpal/how_to_aboard.git
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+```bash
+   npm i 
+```
+```bash
+   npm run dev
+```
